@@ -1,0 +1,24 @@
+<!-- The boring stuff -->
+<!DOCTYPE html>
+<html>
+	<head><link href="college.css" rel="stylesheet">
+	<meta charset="UTF-8">
+	<title>Femme Hacks 2k17</title>
+	<meta name="description" content="DESCRIBE YOUR WEBSITE">
+	<meta name="keywords" content="KEY, WORDS, HERE">
+	</head>
+	<body>
+		<h1>Maybe I'll learn something!</h1>
+
+		<h2> I know nothing!  </h2>
+
+		<h3> When you save your change in Sublime but it doesn't show up on the website </h3>
+
+		<img src="http://cdn0.dailydot.com/uploaded/images/original/2017/2/20/whiguyblink.gif" >
+
+		<h4> When you're sitting around all these smart people doing things and you can only cope by making a joke out of it </h4>
+
+		<img src="http://sev.h-cdn.co/assets/17/05/1485895178-winnie.gif" >
+  	</body>
+  	
+</html>
