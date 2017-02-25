@@ -1,0 +1,30 @@
+h1{
+	color:purple;
+	font-family:georgia;
+	font-size: 30px;
+}
+h2{
+	color:green;
+	font-family:georgia;
+	font-size: 24px;
+}
+h3 {
+	color:blue;
+	font-family:georgia;
+	font-size: 18px;
+	
+}
+img { 
+	width: 20%;
+	border-color: blue;
+	border-style: dotted
+	border: 20px;
+	float:bottom;
+}
+h4{color:yellow;
+	font-family:georgia;
+	font-size: 16px;
+
+}
+body { 
+background-image:url("https://pbs.twimg.com/media/CzRvf2FVIAAXkvc.jpg"); }
